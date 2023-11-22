@@ -4,6 +4,7 @@
 
 ## Building Systems with the ChatGPT API
 - [URL](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)
+- Finished 21/11/23
 
 ## ChatGPT Prompt Engineering for Developers
 

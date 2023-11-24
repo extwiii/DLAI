@@ -4,6 +4,8 @@
 
 ## LangChain for LLM Application Development
 - [URL](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
+- Finished 23/11/23
+- Review 8/10
 
 ## Building Systems with the ChatGPT API
 - [URL](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)

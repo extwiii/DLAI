@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## LangChain Chat with Your Data
+- [URL](https://learn.deeplearning.ai/langchain-chat-with-your-data/lesson/1/introduction)
+- Finished 24/11/23
+- Review 8/10
+
 ## LangChain for LLM Application Development
 - [URL](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
 - Finished 23/11/23

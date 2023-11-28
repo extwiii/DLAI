@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## Finetuning Large Language Models
+- [URL](https://learn.deeplearning.ai/finetuning-large-language-models/lesson/1/introduction)
+- Finished 26/11/23
+- Review 7/10
+
 ## LangChain Chat with Your Data
 - [URL](https://learn.deeplearning.ai/langchain-chat-with-your-data/lesson/1/introduction)
 - Finished 24/11/23

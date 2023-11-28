@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## Large Language Models with Semantic Search
+- [URL](https://learn.deeplearning.ai/large-language-models-semantic-search/lesson/1/introduction)
+- Finished 28/11/23
+- Review 7/10
+
 ## Finetuning Large Language Models
 - [URL](https://learn.deeplearning.ai/finetuning-large-language-models/lesson/1/introduction)
 - Finished 26/11/23

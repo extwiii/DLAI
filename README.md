@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## Building Generative AI Applications with Gradio
+- [URL](https://learn.deeplearning.ai/huggingface-gradio/lesson/1/introduction)
+- Finished 29/11/23
+- Review 7/10
+
 ## Large Language Models with Semantic Search
 - [URL](https://learn.deeplearning.ai/large-language-models-semantic-search/lesson/1/introduction)
 - Finished 28/11/23

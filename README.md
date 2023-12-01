@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## Evaluating and Debugging Generative AI
+- [URL](https://learn.deeplearning.ai/evaluating-debugging-generative-ai/lesson/1/introduction)
+- Finished 30/11/23
+- Review 7/10
+
 ## Building Generative AI Applications with Gradio
 - [URL](https://learn.deeplearning.ai/huggingface-gradio/lesson/1/introduction)
 - Finished 29/11/23

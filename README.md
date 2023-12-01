@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## How Diffusion Models Work
+- [URL](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
+- Finished 1/12/23
+- Review 7/10
+  
 ## Evaluating and Debugging Generative AI
 - [URL](https://learn.deeplearning.ai/evaluating-debugging-generative-ai/lesson/1/introduction)
 - Finished 30/11/23

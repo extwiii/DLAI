@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## Quality and Safety for LLM Applications
+- [URL](https://learn.deeplearning.ai/quality-safety-llm-applications/lesson/1/introduction)
+- Finished 2/12/23
+- Review 7/10
+
 ## How Diffusion Models Work
 - [URL](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)
 - Finished 1/12/23

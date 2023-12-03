@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## Vector Databases: from Embeddings to Applications
+- [URL](https://learn.deeplearning.ai/vector-databases-embeddings-applications/lesson/1/introduction)
+- Finished 3/12/23
+- Review 7/10
+  
 ## Quality and Safety for LLM Applications
 - [URL](https://learn.deeplearning.ai/quality-safety-llm-applications/lesson/1/introduction)
 - Finished 2/12/23

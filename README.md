@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## Functions, Tools, and Agents with LangChain
+- [URL](https://learn.deeplearning.ai/functions-tools-agents-langchain/lesson/1/introduction)
+- Finished 4/12/23
+- Review 7/10
+
 ## Vector Databases: from Embeddings to Applications
 - [URL](https://learn.deeplearning.ai/vector-databases-embeddings-applications/lesson/1/introduction)
 - Finished 3/12/23

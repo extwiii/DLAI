@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## Understanding and Applying Text Embeddings
+- [URL](https://learn.deeplearning.ai/google-cloud-vertex-ai/lesson/1/introduction)
+- Finished 6/12/23
+- Review 7/10
+
 ## Pair Programming with a Large Language Model
 - [URL](https://learn.deeplearning.ai/pair-programming-llm/lesson/1/introduction)
 - Finished 5/12/23

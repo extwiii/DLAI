@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## Pair Programming with a Large Language Model
+- [URL](https://learn.deeplearning.ai/pair-programming-llm/lesson/1/introduction)
+- Finished 5/12/23
+- Review 8/10
+
 ## Functions, Tools, and Agents with LangChain
 - [URL](https://learn.deeplearning.ai/functions-tools-agents-langchain/lesson/1/introduction)
 - Finished 4/12/23

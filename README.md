@@ -2,6 +2,11 @@
 
 # DLAI - Deeplearning.ai Courses
 
+## How Business Thinkers Can Start Building AI Plugins With Semantic Kernel
+- [URL](https://learn.deeplearning.ai/microsoft-semantic-kernel/lesson/1/introduction)
+- Finished 7/12/23
+- Review 8/10
+
 ## Understanding and Applying Text Embeddings
 - [URL](https://learn.deeplearning.ai/google-cloud-vertex-ai/lesson/1/introduction)
 - Finished 6/12/23

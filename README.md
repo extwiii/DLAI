@@ -1,6 +1,11 @@
 [![Deeplearning.ai](https://github.com/extwiii/DLAI/assets/2933560/8f37bc32-0039-4d56-b76d-586ec6f82c31)](https://www.deeplearning.ai/)
 
-# DLAI - Deeplearning.ai Courses
+# DLAI - [Deeplearning.ai Courses](https://www.deeplearning.ai/short-courses/)
+
+## Building and Evaluating Advanced RAG
+- [URL](https://learn.deeplearning.ai/building-evaluating-advanced-rag/lesson/1/introduction)
+- Finished 9/12/23
+- Review 6/10
 
 ## How Business Thinkers Can Start Building AI Plugins With Semantic Kernel
 - [URL](https://learn.deeplearning.ai/microsoft-semantic-kernel/lesson/1/introduction)
